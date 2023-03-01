@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the dynamic Routes on React JS that will automatically handle the navigation of the pages.
 
 ## Available Scripts
 
